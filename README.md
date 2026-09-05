@@ -1,6 +1,6 @@
 # Indigenous NLP Benchmark
 
-A university-level low-resource Natural Language Processing assignment focusing on **Nupe** and **Gbagyi** languages.
+A university-level low-resource Natural Language Processing assignment focusing on **Nupe** and **Gbagyi** language's
 
 ## Overview
 
