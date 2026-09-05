@@ -1,4 +1,5 @@
-## contributor : Usman Abdulsalam saba 
+## contributor : Jimada Abubakar Sadiq 
+ 
 
 # Indigenous NLP Benchmark
 
