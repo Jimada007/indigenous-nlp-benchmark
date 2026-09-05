@@ -40,7 +40,7 @@ indigenous-nlp-benchmark/
 ## Assignment Overview
 
 ### Part 1: Data Collection
-Implement a web scraper that collects text data from specified URLs and exports to JSON Lines format.
+Implement a web scraper that collects text data from specified URLs and exports to JSON Line formats.
 
 **Required Output Format** (`.jsonl`):
 ```json
