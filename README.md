@@ -1,3 +1,5 @@
+## contributor : Usman Abdulsalam saba 
+
 # Indigenous NLP Benchmark
 
 A university-level low-resource Natural Language Processing assignment focusing on **Nupe** and **Gbagyi** language's
@@ -134,10 +136,7 @@ For issues or clarifications:
 2. Consult the assignment notebook comments
 3. Contact your Lecturer
 
-## License
-##Group 4 memeber
-
-- Usman Abdulsalam saba
+##license
 
 This repository is provided for educational purposes under the MIT License.
 
