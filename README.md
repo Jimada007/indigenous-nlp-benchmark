@@ -103,7 +103,7 @@ View results in the **Checks** tab of your pull request.
 Students should complete and submit:
 
 1. ✅ **Completed Jupyter Notebook** (`HW1_assignment.ipynb`) with all 4 parts implemented
-2. ✅ **Raw Data** (`data/*/raw/*.jsonl`) with scraped content
+2. ✅ **Raw Data** (`data/*/raw/*.jsonl`) with scraped contents
 3. ✅ **Processed Corpus** (`data/*/processed/*.txt`) with tokenized text
 4. ✅ **Group Report** (`group_report.md`) with analysis findings
 5. ✅ **Git History** - Multiple commits from all team members
