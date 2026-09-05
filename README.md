@@ -135,7 +135,8 @@ For issues or clarifications:
 3. Contact your Lecturer
 
 ## License
-##Group 4 memebers
+##Group 4 memeber
+
 - Usman Abdulsalam saba
 
 This repository is provided for educational purposes under the MIT License.
