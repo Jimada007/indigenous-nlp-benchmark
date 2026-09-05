@@ -149,6 +149,6 @@ This repository is provided for educational purposes under the MIT License.
 **Duration**: 1 week - Due September 1st 2026
 
 ## License
-##Group 4 Member
+##Group 4 Member.
 
 -Abubakar Imran
